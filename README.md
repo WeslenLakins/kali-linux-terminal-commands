@@ -2,7 +2,7 @@
 
 Being the nerd I am, I constantly found myself searching for a free, comprehensive, and well-organized list of Kali Linux terminal commands. This search, often fruitless, led me to realize that while there is a wealth of information available, it lacked the coherence and structure I needed for quick and efficient learning. Faced with this challenge, I decided to take matters into my own hands and create the very resource I was searching for. The result is a meticulously compiled Markdown file, boasting over 3,000 Kali Linux commands and their descriptions, crafted through the fusion of scripting prowess and the transformative capabilities of AI.
 
-![Kali Linux Terminal Command List](C:\Users\wesle\OneDrive\hustles\dev\miscellaneous\Screenshot 2024-01-30 160221.jpg)
+![Kali Linux Terminal Command List](https://onedrive.live.com/embed?resid=4B1C8510CEF67D18%218641&authkey=%21AGrXi3xoie-u_QY&width=660)
 
 ## The Genesis: Writing the Script
 
